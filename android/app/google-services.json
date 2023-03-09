@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000471887763",
+    "project_id": "pesquisa2024-44459",
+    "storage_bucket": "pesquisa2024-44459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000471887763:android:4f5a94ccfda4866c04b266",
+        "android_client_info": {
+          "package_name": "br.com.devteamweb.opsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000471887763-nokgj3o5q1bbbd48vaeulbttds7bhmg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjGg9AsHcjPXYr56WU1wrtrqdC7g8Rlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000471887763-nokgj3o5q1bbbd48vaeulbttds7bhmg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
